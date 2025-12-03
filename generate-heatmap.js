@@ -1,6 +1,5 @@
 const { intToRGBA, rgbaToInt, colorDiff } = require("@jimp/utils");
 const { Jimp } = require('jimp');
-const {fs} = require('fs');
 
 // function getRandomRgbaInt(){
 //   let r = Math.floor(Math.random() * 256); // Random between 0-255
